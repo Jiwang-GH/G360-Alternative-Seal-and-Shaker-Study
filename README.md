@@ -1,4 +1,4 @@
-### G360-Alternative-Seal-and-Shaker-Study
+### G360_Alternative_Seal_and_Shaker_Study
 
 This repo contains code pertaining to statistical analysis performed under the Alternative Seal and Shaker Study protocol below.
 
