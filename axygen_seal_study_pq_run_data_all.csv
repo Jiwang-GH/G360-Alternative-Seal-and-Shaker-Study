@@ -1,0 +1,289 @@
+sealing_method,sta_id,quant_category,test,data_category,well,quant_value
+ALPS,STA00005,LPC quant ,original run,final,A1,11
+ALPS,STA00005,LPC quant ,original run,final,B1,10.9
+ALPS,STA00005,LPC quant ,original run,final,C1,11
+ALPS,STA00005,LPC quant ,original run,final,D1,11.2
+ALPS,STA00005,LPC quant ,original run,final,E1,11.5
+ALPS,STA00005,LPC quant ,original run,final,F1,10.7
+ALPS,STA00005,LPC quant ,original run,final,G1,10.7
+ALPS,STA00005,LPC quant ,original run,final,H1,11.5
+ALPS,STA00005,LPC quant ,original run,final,A2,11.5
+ALPS,STA00005,LPC quant ,original run,final,B2,11
+ALPS,STA00005,LPC quant ,original run,final,C2,11.2
+ALPS,STA00005,LPC quant ,original run,final,D2,11.3
+ALPS,STA00005,LPC quant ,original run,final,E2,11.2
+ALPS,STA00005,LPC quant ,original run,final,F2,11.2
+ALPS,STA00005,LPC quant ,original run,final,G2,10.5
+ALPS,STA00005,LPC quant ,original run,final,H2,9.9
+ALPS,STA00005,LPC quant ,original run,final,A3,11.7
+ALPS,STA00005,LPC quant ,original run,final,B3,11.8
+ALPS,STA00005,LPC quant ,original run,final,C3,11.4
+ALPS,STA00005,LPC quant ,original run,final,D3,11.3
+ALPS,STA00005,LPC quant ,original run,final,E3,11.7
+ALPS,STA00005,LPC quant ,original run,final,F3,11.7
+ALPS,STA00005,LPC quant ,original run,final,G3,11.8
+ALPS,STA00005,LPC quant ,original run,final,H3,12
+ALPS,STA00005,LPC quant ,original run,final,A4,11
+ALPS,STA00005,LPC quant ,original run,final,B4,11.2
+ALPS,STA00005,LPC quant ,original run,final,C4,10.7
+ALPS,STA00005,LPC quant ,original run,final,D4,11.4
+ALPS,STA00005,LPC quant ,original run,final,E4,11.1
+ALPS,STA00005,LPC quant ,original run,final,F4,11.4
+ALPS,STA00005,LPC quant ,original run,final,G4,11.8
+ALPS,STA00005,LPC quant ,original run,final,H4,10.6
+ALPS,STA00005,LPC quant ,original run,final,A5,11.7
+ALPS,STA00005,LPC quant ,original run,final,B5,11.6
+ALPS,STA00005,LPC quant ,original run,final,C5,11
+ALPS,STA00005,LPC quant ,original run,final,D5,11.4
+ALPS,STA00005,LPC quant ,original run,final,E5,12.3
+ALPS,STA00005,LPC quant ,original run,final,F5,12
+ALPS,STA00005,LPC quant ,original run,final,G5,11.7
+ALPS,STA00005,LPC quant ,original run,final,H5,11.2
+ALPS,STA00005,LPC quant ,original run,final,A6,11.7
+ALPS,STA00005,LPC quant ,original run,final,B6,11.7
+ALPS,STA00005,LPC quant ,original run,final,C6,11.2
+ALPS,STA00005,LPC quant ,original run,final,D6,11.2
+ALPS,STA00005,LPC quant ,original run,final,E6,11.9
+ALPS,STA00005,LPC quant ,original run,final,F6,11.3
+ALPS,STA00005,LPC quant ,original run,final,G6,11.5
+ALPS,STA00005,LPC quant ,original run,final,H6,11.2
+ALPS,STA00005,ENC quant,original run,final,A1,1.16
+ALPS,STA00005,ENC quant,original run,final,B1,1.71
+ALPS,STA00005,ENC quant,original run,final,C1,1.38
+ALPS,STA00005,ENC quant,original run,final,D1,1.39
+ALPS,STA00005,ENC quant,original run,final,E1,1.63
+ALPS,STA00005,ENC quant,original run,final,F1,1.7
+ALPS,STA00005,ENC quant,original run,final,G1,2.8
+ALPS,STA00005,ENC quant,original run,final,H1,1.68
+ALPS,STA00005,ENC quant,original run,final,A2,1.74
+ALPS,STA00005,ENC quant,original run,final,B2,1.6
+ALPS,STA00005,ENC quant,original run,final,C2,1.41
+ALPS,STA00005,ENC quant,original run,final,D2,1.6
+ALPS,STA00005,ENC quant,original run,final,E2,1.67
+ALPS,STA00005,ENC quant,original run,final,F2,1.88
+ALPS,STA00005,ENC quant,original run,final,G2,2.29
+ALPS,STA00005,ENC quant,original run,final,H2,1.95
+ALPS,STA00005,ENC quant,original run,final,A3,1.81
+ALPS,STA00005,ENC quant,original run,final,B3,1.6
+ALPS,STA00005,ENC quant,original run,final,C3,1.3
+ALPS,STA00005,ENC quant,original run,final,D3,1.56
+ALPS,STA00005,ENC quant,original run,final,E3,1.79
+ALPS,STA00005,ENC quant,original run,final,F3,1.97
+ALPS,STA00005,ENC quant,original run,final,G3,2.24
+ALPS,STA00005,ENC quant,original run,final,H3,2.04
+ALPS,STA00005,ENC quant,original run,final,A4,1.42
+ALPS,STA00005,ENC quant,original run,final,B4,1.51
+ALPS,STA00005,ENC quant,original run,final,C4,1.43
+ALPS,STA00005,ENC quant,original run,final,D4,1.46
+ALPS,STA00005,ENC quant,original run,final,E4,1.96
+ALPS,STA00005,ENC quant,original run,final,F4,1.74
+ALPS,STA00005,ENC quant,original run,final,G4,2.3
+ALPS,STA00005,ENC quant,original run,final,H4,1.95
+ALPS,STA00005,ENC quant,original run,final,A5,1.21
+ALPS,STA00005,ENC quant,original run,final,B5,1.48
+ALPS,STA00005,ENC quant,original run,final,C5,1.32
+ALPS,STA00005,ENC quant,original run,final,D5,1.33
+ALPS,STA00005,ENC quant,original run,final,E5,1.82
+ALPS,STA00005,ENC quant,original run,final,F5,1.83
+ALPS,STA00005,ENC quant,original run,final,G5,2.07
+ALPS,STA00005,ENC quant,original run,final,H5,2.11
+ALPS,STA00005,ENC quant,original run,final,A6,1.6
+ALPS,STA00005,ENC quant,original run,final,B6,1.34
+ALPS,STA00005,ENC quant,original run,final,C6,1.66
+ALPS,STA00005,ENC quant,original run,final,D6,0.318
+ALPS,STA00005,ENC quant,original run,final,E6,1.35
+ALPS,STA00005,ENC quant,original run,final,F6,1.51
+ALPS,STA00005,ENC quant,original run,final,G6,2.27
+ALPS,STA00005,ENC quant,original run,final,H6,1.28
+PlateLoc,STA00017,LPC quant ,original run,final,A1,10.8
+PlateLoc,STA00017,LPC quant ,original run,final,B1,11.2
+PlateLoc,STA00017,LPC quant ,original run,final,C1,11
+PlateLoc,STA00017,LPC quant ,original run,final,D1,10.7
+PlateLoc,STA00017,LPC quant ,original run,final,E1,10.5
+PlateLoc,STA00017,LPC quant ,original run,final,F1,10.4
+PlateLoc,STA00017,LPC quant ,original run,final,G1,11.2
+PlateLoc,STA00017,LPC quant ,original run,final,H1,10.9
+PlateLoc,STA00017,LPC quant ,original run,final,A2,11.1
+PlateLoc,STA00017,LPC quant ,original run,final,B2,11.3
+PlateLoc,STA00017,LPC quant ,original run,final,C2,11
+PlateLoc,STA00017,LPC quant ,original run,final,D2,10.9
+PlateLoc,STA00017,LPC quant ,original run,final,E2,10.9
+PlateLoc,STA00017,LPC quant ,original run,final,F2,10.4
+PlateLoc,STA00017,LPC quant ,original run,final,G2,11.2
+PlateLoc,STA00017,LPC quant ,original run,final,H2,10.2
+PlateLoc,STA00017,LPC quant ,original run,final,A3,12
+PlateLoc,STA00017,LPC quant ,original run,final,B3,11.8
+PlateLoc,STA00017,LPC quant ,original run,final,C3,11.8
+PlateLoc,STA00017,LPC quant ,original run,final,D3,12
+PlateLoc,STA00017,LPC quant ,original run,final,E3,12.2
+PlateLoc,STA00017,LPC quant ,original run,final,F3,11.8
+PlateLoc,STA00017,LPC quant ,original run,final,G3,11.7
+PlateLoc,STA00017,LPC quant ,original run,final,H3,13
+PlateLoc,STA00017,LPC quant ,original run,final,A4,10.9
+PlateLoc,STA00017,LPC quant ,original run,final,B4,10.9
+PlateLoc,STA00017,LPC quant ,original run,final,C4,11.2
+PlateLoc,STA00017,LPC quant ,original run,final,D4,10.8
+PlateLoc,STA00017,LPC quant ,original run,final,E4,11.2
+PlateLoc,STA00017,LPC quant ,original run,final,F4,10.9
+PlateLoc,STA00017,LPC quant ,original run,final,G4,11.1
+PlateLoc,STA00017,LPC quant ,original run,final,H4,11.1
+PlateLoc,STA00017,LPC quant ,original run,final,A5,11.4
+PlateLoc,STA00017,LPC quant ,original run,final,B5,11.1
+PlateLoc,STA00017,LPC quant ,original run,final,C5,12
+PlateLoc,STA00017,LPC quant ,original run,final,D5,10.9
+PlateLoc,STA00017,LPC quant ,original run,final,E5,11.6
+PlateLoc,STA00017,LPC quant ,original run,final,F5,11.3
+PlateLoc,STA00017,LPC quant ,original run,final,G5,11.6
+PlateLoc,STA00017,LPC quant ,original run,final,H5,11.9
+PlateLoc,STA00017,LPC quant ,original run,final,A6,11.9
+PlateLoc,STA00017,LPC quant ,original run,final,B6,11.1
+PlateLoc,STA00017,LPC quant ,original run,final,C6,12
+PlateLoc,STA00017,LPC quant ,original run,final,D6,11.6
+PlateLoc,STA00017,LPC quant ,original run,final,E6,11.6
+PlateLoc,STA00017,LPC quant ,original run,final,F6,10.4
+PlateLoc,STA00017,LPC quant ,original run,final,G6,11.1
+PlateLoc,STA00017,LPC quant ,original run,final,H6,11
+PlateLoc,STA00017,ENC quant,original run,,A1,1.3
+PlateLoc,STA00017,ENC quant,original run,,B1,1.09
+PlateLoc,STA00017,ENC quant,original run,,C1,1.13
+PlateLoc,STA00017,ENC quant,original run,,D1,1.36
+PlateLoc,STA00017,ENC quant,original run,,E1,1.19
+PlateLoc,STA00017,ENC quant,original run,,F1,1.17
+PlateLoc,STA00017,ENC quant,original run,,G1,1.52
+PlateLoc,STA00017,ENC quant,original run,,H1,1.85
+PlateLoc,STA00017,ENC quant,original run,,A2,1.19
+PlateLoc,STA00017,ENC quant,original run,,B2,1.05
+PlateLoc,STA00017,ENC quant,original run,,C2,1.08
+PlateLoc,STA00017,ENC quant,original run,,D2,1.31
+PlateLoc,STA00017,ENC quant,original run,,E2,0.956
+PlateLoc,STA00017,ENC quant,original run,,F2,0.748
+PlateLoc,STA00017,ENC quant,original run,,G2,1.26
+PlateLoc,STA00017,ENC quant,original run,,H2,1.91
+PlateLoc,STA00017,ENC quant,original run,,A3,1.2
+PlateLoc,STA00017,ENC quant,original run,,B3,1
+PlateLoc,STA00017,ENC quant,original run,,C3,0.89
+PlateLoc,STA00017,ENC quant,original run,,D3,1.02
+PlateLoc,STA00017,ENC quant,original run,,E3,0.747
+PlateLoc,STA00017,ENC quant,original run,,F3,1.05
+PlateLoc,STA00017,ENC quant,original run,,G3,1.41
+PlateLoc,STA00017,ENC quant,original run,,H3,1.7
+PlateLoc,STA00017,ENC quant,original run,,A4,0.961
+PlateLoc,STA00017,ENC quant,original run,,B4,1.68
+PlateLoc,STA00017,ENC quant,original run,,C4,0.754
+PlateLoc,STA00017,ENC quant,original run,,D4,0.665
+PlateLoc,STA00017,ENC quant,original run,,E4,0.779
+PlateLoc,STA00017,ENC quant,original run,,F4,0.76
+PlateLoc,STA00017,ENC quant,original run,,G4,0.942
+PlateLoc,STA00017,ENC quant,original run,,H4,1.25
+PlateLoc,STA00017,ENC quant,original run,,A5,0.888
+PlateLoc,STA00017,ENC quant,original run,,B5,0.832
+PlateLoc,STA00017,ENC quant,original run,,C5,0.821
+PlateLoc,STA00017,ENC quant,original run,,D5,0.708
+PlateLoc,STA00017,ENC quant,original run,,E5,0.626
+PlateLoc,STA00017,ENC quant,original run,,F5,0.795
+PlateLoc,STA00017,ENC quant,original run,,G5,0.817
+PlateLoc,STA00017,ENC quant,original run,,H5,0.987
+PlateLoc,STA00017,ENC quant,original run,,A6,0.993
+PlateLoc,STA00017,ENC quant,original run,,B6,0.837
+PlateLoc,STA00017,ENC quant,original run,,C6,0.751
+PlateLoc,STA00017,ENC quant,original run,,D6,0.508
+PlateLoc,STA00017,ENC quant,original run,,E6,0.596
+PlateLoc,STA00017,ENC quant,original run,,F6,0.694
+PlateLoc,STA00017,ENC quant,original run,,G6,0.757
+PlateLoc,STA00017,ENC quant,original run,,H6,0.958
+PlateLoc,STA00017,ENC quant,retest run,final,A1,1
+PlateLoc,STA00017,ENC quant,retest run,final,B1,1.15
+PlateLoc,STA00017,ENC quant,retest run,final,C1,1.17
+PlateLoc,STA00017,ENC quant,retest run,final,D1,1.3
+PlateLoc,STA00017,ENC quant,retest run,final,E1,1.19
+PlateLoc,STA00017,ENC quant,retest run,final,F1,1.29
+PlateLoc,STA00017,ENC quant,retest run,final,G1,1.23
+PlateLoc,STA00017,ENC quant,retest run,final,H1,1.47
+PlateLoc,STA00017,ENC quant,retest run,final,A2,1.18
+PlateLoc,STA00017,ENC quant,retest run,final,B2,1.37
+PlateLoc,STA00017,ENC quant,retest run,final,C2,1.13
+PlateLoc,STA00017,ENC quant,retest run,final,D2,0.828
+PlateLoc,STA00017,ENC quant,retest run,final,E2,0.976
+PlateLoc,STA00017,ENC quant,retest run,final,F2,1.47
+PlateLoc,STA00017,ENC quant,retest run,final,G2,1.03
+PlateLoc,STA00017,ENC quant,retest run,final,H2,1.27
+PlateLoc,STA00017,ENC quant,retest run,final,A3,1.36
+PlateLoc,STA00017,ENC quant,retest run,final,B3,1.3
+PlateLoc,STA00017,ENC quant,retest run,final,C3,0.991
+PlateLoc,STA00017,ENC quant,retest run,final,D3,1.02
+PlateLoc,STA00017,ENC quant,retest run,final,E3,0.774
+PlateLoc,STA00017,ENC quant,retest run,final,F3,1.28
+PlateLoc,STA00017,ENC quant,retest run,final,G3,0.952
+PlateLoc,STA00017,ENC quant,retest run,final,H3,1.39
+PlateLoc,STA00017,ENC quant,retest run,final,A4,1.53
+PlateLoc,STA00017,ENC quant,retest run,final,B4,0.811
+PlateLoc,STA00017,ENC quant,retest run,final,C4,1.18
+PlateLoc,STA00017,ENC quant,retest run,final,D4,0.747
+PlateLoc,STA00017,ENC quant,retest run,final,E4,0.888
+PlateLoc,STA00017,ENC quant,retest run,final,F4,0.927
+PlateLoc,STA00017,ENC quant,retest run,final,G4,1.02
+PlateLoc,STA00017,ENC quant,retest run,final,H4,1.14
+PlateLoc,STA00017,ENC quant,retest run,final,A5,1.03
+PlateLoc,STA00017,ENC quant,retest run,final,B5,1.19
+PlateLoc,STA00017,ENC quant,retest run,final,C5,0.822
+PlateLoc,STA00017,ENC quant,retest run,final,D5,0.664
+PlateLoc,STA00017,ENC quant,retest run,final,E5,0.635
+PlateLoc,STA00017,ENC quant,retest run,final,F5,0.844
+PlateLoc,STA00017,ENC quant,retest run,final,G5,0.854
+PlateLoc,STA00017,ENC quant,retest run,final,H5,1.86
+PlateLoc,STA00017,ENC quant,retest run,final,A6,1.08
+PlateLoc,STA00017,ENC quant,retest run,final,B6,0.933
+PlateLoc,STA00017,ENC quant,retest run,final,C6,0.764
+PlateLoc,STA00017,ENC quant,retest run,final,D6,0.345
+PlateLoc,STA00017,ENC quant,retest run,final,E6,0.456
+PlateLoc,STA00017,ENC quant,retest run,final,F6,0.736
+PlateLoc,STA00017,ENC quant,retest run,final,G6,0.717
+PlateLoc,STA00017,ENC quant,retest run,final,H6,1.05
+ALPS,STA00004,LPC quant ,original run,,A1,10.2
+ALPS,STA00004,LPC quant ,original run,,B1,9.45
+ALPS,STA00004,LPC quant ,original run,,C1,9.75
+ALPS,STA00004,LPC quant ,original run,,D1,9.11
+ALPS,STA00004,LPC quant ,original run,,E1,9.64
+ALPS,STA00004,LPC quant ,original run,,F1,8.92
+ALPS,STA00004,LPC quant ,original run,,G1,8.36
+ALPS,STA00004,LPC quant ,original run,,H1,8.69
+ALPS,STA00004,LPC quant ,original run,,A2,10.3
+ALPS,STA00004,LPC quant ,original run,,B2,10.1
+ALPS,STA00004,LPC quant ,original run,,C2,9.71
+ALPS,STA00004,LPC quant ,original run,,D2,9.78
+ALPS,STA00004,LPC quant ,original run,,E2,10.2
+ALPS,STA00004,LPC quant ,original run,,F2,9.12
+ALPS,STA00004,LPC quant ,original run,,G2,9.19
+ALPS,STA00004,LPC quant ,original run,,H2,10.7
+ALPS,STA00004,LPC quant ,original run,,A3,9.06
+ALPS,STA00004,LPC quant ,original run,,B3,8.56
+ALPS,STA00004,LPC quant ,original run,,C3,8.85
+ALPS,STA00004,LPC quant ,original run,,D3,8.3
+ALPS,STA00004,LPC quant ,original run,,E3,8.8
+ALPS,STA00004,LPC quant ,original run,,F3,8.54
+ALPS,STA00004,LPC quant ,original run,,G3,8.93
+ALPS,STA00004,LPC quant ,original run,,H3,8.4
+ALPS,STA00004,LPC quant ,original run,,A4,9.86
+ALPS,STA00004,LPC quant ,original run,,B4,9.87
+ALPS,STA00004,LPC quant ,original run,,C4,9.6
+ALPS,STA00004,LPC quant ,original run,,D4,9.42
+ALPS,STA00004,LPC quant ,original run,,E4,10.5
+ALPS,STA00004,LPC quant ,original run,,F4,9.39
+ALPS,STA00004,LPC quant ,original run,,G4,10.6
+ALPS,STA00004,LPC quant ,original run,,H4,11.4
+ALPS,STA00004,LPC quant ,original run,,A5,9.67
+ALPS,STA00004,LPC quant ,original run,,B5,9.41
+ALPS,STA00004,LPC quant ,original run,,C5,8.55
+ALPS,STA00004,LPC quant ,original run,,D5,8.39
+ALPS,STA00004,LPC quant ,original run,,E5,9.63
+ALPS,STA00004,LPC quant ,original run,,F5,8.88
+ALPS,STA00004,LPC quant ,original run,,G5,8.55
+ALPS,STA00004,LPC quant ,original run,,H5,9.22
+ALPS,STA00004,LPC quant ,original run,,A6,9.19
+ALPS,STA00004,LPC quant ,original run,,B6,9.86
+ALPS,STA00004,LPC quant ,original run,,C6,8.82
+ALPS,STA00004,LPC quant ,original run,,D6,7.89
+ALPS,STA00004,LPC quant ,original run,,E6,9.69
+ALPS,STA00004,LPC quant ,original run,,F6,8.98
+ALPS,STA00004,LPC quant ,original run,,G6,11
+ALPS,STA00004,LPC quant ,original run,,H6,9.71
